@@ -320,7 +320,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/mongrelapp">
-            Powered by LangChainAI. Demo built by mongrelapp (Twitter: @mongrelapp).
+            Powered by LangChainAI. Demo built by Mongrel (Twitter: @mongrelapp).
           </a>
         </footer>
       </Layout>
